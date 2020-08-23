@@ -47,7 +47,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git+https://github.com/cheese98/cheese98.github.io.git"
   },
   "scripts": {
     "build": "gatsby build",
@@ -57,6 +57,6 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
-    "deploy": "gatsby build && gh-pages -d public -b master"
+    "deploy": "gatsby build && gh-pages -d public -b master -r https://github.com/cheese98/cheese98.github.io.git"
   }
 }
