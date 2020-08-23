@@ -6,7 +6,7 @@ module.exports = {
       summary: `a software developer in Korea`,
     },
     description: `A little blog by a newbie developer.`,
-    siteUrl: `https://xenodochial-jepsen-8b4fb1.netlify.app/`,
+    siteUrl: `https://cheese98.github.io/`,
     social: {
       github: `cheese98`,
       facebook: `jj981020`
