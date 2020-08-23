@@ -1,144 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cheese98's Blog]]></title><description><![CDATA[A little blog by a newbie developer.]]></description><link>https://cheese98.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 23 Aug 2020 22:44:54 GMT</lastBuildDate><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://cheese98.github.io/new-beginnings/</link><guid isPermaLink="false">https://cheese98.github.io/new-beginnings/</guid><pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.&lt;/p&gt;
-&lt;h2&gt;On deer horse aboard tritely yikes and much&lt;/h2&gt;
-&lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cheese98's Blog]]></title><description><![CDATA[A little blog by a newbie developer.]]></description><link>https://cheese98.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 23 Aug 2020 23:48:27 GMT</lastBuildDate><item><title><![CDATA[블로그 이주]]></title><description><![CDATA[자기개발을 열심히 하는 중입니다.]]></description><link>https://cheese98.github.io/migrate-blog/</link><guid isPermaLink="false">https://cheese98.github.io/migrate-blog/</guid><pubDate>Mon, 24 Aug 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;자기개발을 열심히 하는 중입니다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[시험 기간입니다]]></title><description><![CDATA[시험 준비중이라 프로젝트 업데이트가 늦을 수 있습니다. 양해 부탁드립니다.]]></description><link>https://cheese98.github.io/have-a-test/</link><guid isPermaLink="false">https://cheese98.github.io/have-a-test/</guid><pubDate>Sun, 12 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;시험 준비중이라 프로젝트 업데이트가 늦을 수 있습니다. 양해 부탁드립니다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[korea-map]]></title><description><![CDATA[대한민국 선거구 지도입니다. 제가 직접 만든 내용은 일부에 불과하고, 대부분은 다른 저장소의 소스를 수입하여 만들었습니다. https://github.com/southkorea/southkorea-maps https://github.com…]]></description><link>https://cheese98.github.io/korea-map/</link><guid isPermaLink="false">https://cheese98.github.io/korea-map/</guid><pubDate>Fri, 13 Mar 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;대한민국 선거구 지도입니다.&lt;/p&gt;
+&lt;p&gt;제가 직접 만든 내용은 일부에 불과하고, 대부분은 다른 저장소의 소스를 수입하여 만들었습니다.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;This however showed weasel&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Well uncritical so misled&lt;/p&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/southkorea/southkorea-maps&quot;&gt;https://github.com/southkorea/southkorea-maps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/minsukkahng/popong-vis-lab&quot;&gt;https://github.com/minsukkahng/popong-vis-lab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;del&gt;21대 총선에 관한 자료를 제작중입니다.&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;2020-04-22 추가: 학업 문제로 인해 자료 제작을 보류하며, 저장소 또한 당분간 비공개 상태로 변경하겠습니다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[FileRenamer]]></title><description><![CDATA[많은 파일들의 이름을 일괄적으로 변경할 수 있는 프로그램입니다. 아직 제작중입니다.]]></description><link>https://cheese98.github.io/filerenamer/</link><guid isPermaLink="false">https://cheese98.github.io/filerenamer/</guid><pubDate>Tue, 10 Mar 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;많은 파일들의 이름을 일괄적으로 변경할 수 있는 프로그램입니다. 아직 제작중입니다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[다른 프로젝트에서의 기여]]></title><description><![CDATA[저는 제가 만든 프로젝트뿐만 아니라 다른 분들께서 만드신 프로젝트들에도 기여하고 있습니다. 아래는 제 기여분이 있는 프로젝트 목록입니다. maplestorydpmcalc pg-vscode-extn-kr.github.io]]></description><link>https://cheese98.github.io/contribution-on-others/</link><guid isPermaLink="false">https://cheese98.github.io/contribution-on-others/</guid><pubDate>Mon, 02 Mar 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;저는 제가 만든 프로젝트뿐만 아니라 다른 분들께서 만드신 프로젝트들에도 기여하고 있습니다. 아래는 제 기여분이 있는 프로젝트 목록입니다.&lt;/p&gt;
+&lt;hr&gt;
 &lt;ul&gt;
-&lt;li&gt;this is very interesting&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Goodness much until that fluid owl&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;When she reached the first hills of the &lt;strong&gt;Italic Mountains&lt;/strong&gt;, she had a last
-view back on the skyline of her hometown &lt;em&gt;Bookmarksgrove&lt;/em&gt;, the headline of
-&lt;a href=&quot;http://google.com&quot;&gt;Alphabet Village&lt;/a&gt; and the subline of her own road, the Line
-Lane. Pityful a rhetoric question ran over her cheek, then she continued her
-way. On her way she met a copy.&lt;/p&gt;
-&lt;h3&gt;Overlaid the jeepers uselessly much excluding&lt;/h3&gt;
-&lt;p&gt;But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-&lt;a href=&quot;http://google.com&quot;&gt;Longe and Parole&lt;/a&gt; and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;
-&lt;h3&gt;According a funnily until pre-set or arrogant well cheerful&lt;/h3&gt;
-&lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;So baboon this&lt;/li&gt;
-&lt;li&gt;Mounted militant weasel gregariously admonishingly straightly hey&lt;/li&gt;
-&lt;li&gt;Dear foresaw hungry and much some overhung&lt;/li&gt;
-&lt;li&gt;Rash opossum less because less some amid besides yikes jeepers frenetic
-impassive fruitlessly shut&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;When she reached the first hills of the Italic Mountains, she had a last view
-back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
-Village and the subline of her own road, the Line Lane. Pityful a rhetoric
-question ran over her cheek, then she continued her way. On her way she met a
-copy.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word “and” and the Little Blind Text should turn around and
-return to its own, safe country.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
-and dragged her into their agency, where they abused her for their projects
-again and again. And if she hasn’t been rewritten, then they are still using
-her. Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.&lt;/p&gt;
-&lt;h4&gt;Silent delightfully including because before one up barring chameleon&lt;/h4&gt;
-&lt;p&gt;Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-large language ocean. A small river named Duden flows by their place and
-supplies it with the necessary regelialia. It is a paradisematic country, in
-which roasted parts of sentences fly into your mouth.&lt;/p&gt;
-&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an
-almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
-advised her not to do so, because there were thousands of bad Commas, wild
-Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.&lt;/p&gt;
-&lt;h5&gt;Wherever far wow thus a squirrel raccoon jeez jaguar this from along&lt;/h5&gt;
-&lt;p&gt;She packed her seven versalia, put her initial into the belt and made herself on
-the way. When she reached the first hills of the Italic Mountains, she had a
-last view back on the skyline of her hometown Bookmarksgrove, the headline of
-Alphabet Village and the subline of her own road, the Line Lane. Pityful a
-rhetoric question ran over her cheek, then she continued her way. On her way she
-met a copy.&lt;/p&gt;
-&lt;h6&gt;Slapped cozy a that lightheartedly and far&lt;/h6&gt;
-&lt;p&gt;The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word “and” and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My Second Post!]]></title><description><![CDATA[Wow! I love blogging so much already. Did you know that “despite its name, salted duck eggs can also be made from
-chicken eggs, though the…]]></description><link>https://cheese98.github.io/my-second-post/</link><guid isPermaLink="false">https://cheese98.github.io/my-second-post/</guid><pubDate>Wed, 06 May 2015 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
-&lt;p&gt;Did you know that “despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich.”?
-(&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;Wikipedia Link&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;Yeah, I didn’t either.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a…]]></description><link>https://cheese98.github.io/hello-world/</link><guid isPermaLink="false">https://cheese98.github.io/hello-world/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
-&lt;p&gt;I’m sure I’ll write a lot more interesting things in the future.&lt;/p&gt;
-&lt;p&gt;Oh, and here’s a great quote from this Wikipedia on
-&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;salted duck eggs&lt;/a&gt;.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;A salted duck egg is a Chinese preserved food product made by soaking duck
-eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-charcoal paste. The eggs may also be sold with the salted paste removed,
-wrapped in plastic, and vacuum packed. From the salt curing process, the
-salted duck eggs have a briny aroma, a gelatin-like egg white and a
-firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 590px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEEBf/aAAwDAQACEAMQAAABgik0dXC//8QAGRABAAMBAQAAAAAAAAAAAAAAAQACEhEy/9oACAEBAAEFAkqW2DlnRj73yf/EABcRAQADAAAAAAAAAAAAAAAAAAAREkH/2gAIAQMBAT8B1WX/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQL/2gAIAQIBAT8Bi6f/xAAbEAABBAMAAAAAAAAAAAAAAAAAAQIRISIxMv/aAAgBAQAGPwK9GNocyS8hCj//xAAbEAADAQADAQAAAAAAAAAAAAABESEAMUGBof/aAAgBAQABPyGxNMfrLHmCDZmAzzvJJDjEQCHv/9oADAMBAAIAAwAAABDIL//EABYRAQEBAAAAAAAAAAAAAAAAAAERAP/aAAgBAwEBPxARhylZv//EABgRAAIDAAAAAAAAAAAAAAAAAAABESFR/9oACAECAQE/EFoktI//xAAdEAEBAAICAwEAAAAAAAAAAAABEQAxIWFBcYHh/9oACAEBAAE/EEbMLQ0fMHDVaPIXyI4pk4JUnWacNCtO8ojDE9TGIYES7/Jn/9k=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Chinese Salty Egg&quot;
-        title=&quot;Chinese Salty Egg&quot;
-        src=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/1c72d/salty_egg.jpg&quot;
-        srcset=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/a80bd/salty_egg.jpg 148w,
-/static/8058f3f26913fea3b6a89a73344fe94a/1c91a/salty_egg.jpg 295w,
-/static/8058f3f26913fea3b6a89a73344fe94a/1c72d/salty_egg.jpg 590w,
-/static/8058f3f26913fea3b6a89a73344fe94a/a8a14/salty_egg.jpg 885w,
-/static/8058f3f26913fea3b6a89a73344fe94a/fbd2c/salty_egg.jpg 1180w,
-/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg 2048w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;li&gt;&lt;a href=&quot;https://github.com/oleneyl/maplestory_dpm_calc&quot;&gt;maplestory&lt;em&gt;dpm&lt;/em&gt;calc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/pg-vscode-extn-kr/pg-vscode-extn-kr.github.io&quot;&gt;pg-vscode-extn-kr.github.io &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Mafia_AI]]></title><description><![CDATA[인공지능끼리 마피아 게임을 하며 플레이어는 관전을 할 수 있는 어플리케이션입니다. 아직 개발 초기 단계입니다.]]></description><link>https://cheese98.github.io/mafia_ai/</link><guid isPermaLink="false">https://cheese98.github.io/mafia_ai/</guid><pubDate>Fri, 28 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;인공지능끼리 마피아 게임을 하며 플레이어는 관전을 할 수 있는 어플리케이션입니다.&lt;/p&gt;
+&lt;p&gt;아직 개발 초기 단계입니다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[ImmediateCall]]></title><description><![CDATA[안드로이드 잠금 화면에서 클릭 한번에 등록된 연락처로 전화를 걸 수 있게 하는 어플리케이션입니다. 다른 프로젝트들을 참고하여 제작중입니다. 어느 정도 진행되면 업데이트할 예정입니다.]]></description><link>https://cheese98.github.io/immediatecall/</link><guid isPermaLink="false">https://cheese98.github.io/immediatecall/</guid><pubDate>Tue, 25 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;안드로이드 잠금 화면에서 클릭 한번에 등록된 연락처로 전화를 걸 수 있게 하는 어플리케이션입니다.&lt;/p&gt;
+&lt;p&gt;다른 프로젝트들을 참고하여 제작중입니다.&lt;/p&gt;
+&lt;p&gt;어느 정도 진행되면 업데이트할 예정입니다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[AlggagiGame]]></title><description><![CDATA[AlggagiGame (알까기게임)은 고등학교 재학 시절인 2015년에 프로그래머로 살기 동아리 출품을 위해 만든 프로젝트입니다. 일부 물리엔진이 적용되지 않은 상태이며, 시간이 나면 추가하도록 하겠습니다.]]></description><link>https://cheese98.github.io/alggagigame/</link><guid isPermaLink="false">https://cheese98.github.io/alggagigame/</guid><pubDate>Sat, 22 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;AlggagiGame (알까기게임)은 고등학교 재학 시절인 2015년에 프로그래머로 살기 동아리 출품을 위해 만든 프로젝트입니다.&lt;/p&gt;
+&lt;p&gt;일부 물리엔진이 적용되지 않은 상태이며, 시간이 나면 추가하도록 하겠습니다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Introduce Myself]]></title><description><![CDATA[Real name: Hongjoon Jun or Hongjoon Jeon Former manager of Unjeong Wiki (2015) I served in the 7th Division of the Republic of Korea from…]]></description><link>https://cheese98.github.io/introduce/</link><guid isPermaLink="false">https://cheese98.github.io/introduce/</guid><pubDate>Fri, 21 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Real name: &lt;strong&gt;Hongjoon Jun&lt;/strong&gt; or &lt;strong&gt;Hongjoon Jeon&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Former manager of Unjeong Wiki (2015)&lt;/p&gt;
+&lt;p&gt;I served in the &lt;a href=&quot;https://ko.wikipedia.org/wiki/%EC%A0%9C7%EB%B3%B4%EB%B3%91%EC%82%AC%EB%8B%A8_(%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD)&quot;&gt;7th Division of the Republic of Korea&lt;/a&gt; from June 26, 2018 to February 15, 2020.&lt;/p&gt;
+&lt;p&gt;Source of my profile picture: &lt;a href=&quot;https://gall.dcinside.com/board/view/?id=cartoon&amp;#x26;no=420594&quot;&gt;운없는 입대만화&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Start the blog!]]></title><description><![CDATA[cheese98의 개인 페이지에 오신 것을 환영합니다! 여기에는 제가 만들거나 참여한 프로젝트들에 대한 소개를 올릴 계획입니다.]]></description><link>https://cheese98.github.io/initial-post/</link><guid isPermaLink="false">https://cheese98.github.io/initial-post/</guid><pubDate>Sun, 26 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;cheese98의 개인 페이지에 오신 것을 환영합니다! 여기에는 제가 만들거나 참여한 프로젝트들에 대한 소개를 올릴 계획입니다.&lt;/p&gt;</content:encoded></item></channel></rss>
