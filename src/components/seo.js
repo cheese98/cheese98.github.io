@@ -19,7 +19,8 @@ const SEO = ({ description, lang, meta, title }) => {
             title
             description
             social {
-              twitter
+              github
+              facebook
             }
           }
         }
@@ -52,7 +53,7 @@ const SEO = ({ description, lang, meta, title }) => {
         {
           property: `og:type`,
           content: `website`,
-        },
+        },/* TODO: Check if it's okay to remove
         {
           name: `twitter:card`,
           content: `summary`,
@@ -68,7 +69,7 @@ const SEO = ({ description, lang, meta, title }) => {
         {
           name: `twitter:description`,
           content: metaDescription,
-        },
+        },*/
       ].concat(meta)}
     />
   )
