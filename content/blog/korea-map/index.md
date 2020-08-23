@@ -1,0 +1,15 @@
+---
+title: "korea-map"
+date: "2020-03-13"
+---
+
+대한민국 선거구 지도입니다.
+
+제가 직접 만든 내용은 일부에 불과하고, 대부분은 다른 저장소의 소스를 수입하여 만들었습니다.
+
+* https://github.com/southkorea/southkorea-maps
+* https://github.com/minsukkahng/popong-vis-lab
+
+~~21대 총선에 관한 자료를 제작중입니다.~~
+
+2020-04-22 추가: 학업 문제로 인해 자료 제작을 보류하며, 저장소 또한 당분간 비공개 상태로 변경하겠습니다.
